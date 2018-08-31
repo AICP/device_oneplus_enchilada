@@ -1,4 +1,9 @@
 # We cannot wait for all patches to be merged,
 # so we pull the patches from gerrit.
 #
+# clang
 67313/1 http://gerrit.aicp-rom.com prebuilts/clang/host/linux-x86
+# Nfc
+224909/1 https://review.lineageos.org vendor/nxp/opensource/external/libnfc-nci
+224911/1 https://review.lineageos.org vendor/nxp/opensource/packages/apps/Nfc
+224910/1 https://review.lineageos.org vendor/nxp/opensource/frameworks
