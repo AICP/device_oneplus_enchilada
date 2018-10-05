@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_enchilada.mk
+    $(LOCAL_DIR)/aicp_enchilada.mk
