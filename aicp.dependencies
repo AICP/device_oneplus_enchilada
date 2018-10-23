@@ -13,5 +13,10 @@
     "repository":  "BigTopKrazies/vendor_enchilada",
     "target_path": "vendor/oneplus",
     "branch":      "9.0"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
   }
 ]
