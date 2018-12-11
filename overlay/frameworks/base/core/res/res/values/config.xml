@@ -334,4 +334,7 @@
 
     <!-- Smart Pixels -->
     <bool name="config_enableSmartPixels">true</bool>
+
+    <!-- Does the device supports fast charging -->
+    <bool name="config_FastChargingLedSupported">false</bool>
 </resources>
