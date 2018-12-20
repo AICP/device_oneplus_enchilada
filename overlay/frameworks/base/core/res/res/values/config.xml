@@ -337,4 +337,7 @@
 
     <!-- Does the device supports fast charging -->
     <bool name="config_FastChargingLedSupported">true</bool>
+
+    <!-- Does the device supports Smart Battery -->
+    <bool name="config_smart_battery_available">true</bool>
 </resources>
