@@ -39,6 +39,7 @@
 
      <!-- Notification slider -->
     <string name="notification_slider">Notification slider</string>
+    <string name="notification_slider_summary">Configure slider positions</string>
     <string name="action">Action</string>
 
     <string name="top_position">Top position</string>
