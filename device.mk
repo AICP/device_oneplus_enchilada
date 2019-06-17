@@ -40,7 +40,7 @@ TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
 
 # Pocket mode
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     OnePlusPocketMode
 
 # Inherit from oneplus sdm845-common
