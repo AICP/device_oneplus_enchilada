@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+#TWRP
+BUILD_TWRP := true
+
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
@@ -45,3 +48,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus6-user 8.1.0 OPM1.171019.011 273 release-keys"
 
 BUILD_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
+
+
+# TWRP Support
+ifeq ($(BUILD_TWRP),true)
+include $(LOCAL_PATH)/twrp.mk
+endif
