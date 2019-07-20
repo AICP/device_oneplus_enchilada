@@ -2,3 +2,6 @@
 # so we pull the patches from gerrit.
 #
 #e.g. 67313/1 http://gerrit.aicp-rom.com prebuilts/clang/host/linux-x86
+
+#twrp fixes
+91184/2 http://gerrit.aicp-rom.com system/update_engine
