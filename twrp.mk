@@ -21,7 +21,7 @@ TW_INCLUDE_NTFS_3G := true
 AB_OTA_UPDATER := true
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
-TW_THEME := portrait_hdpi
+TW_THEME := portrait_hdpi_notch
 TARGET_RECOVERY_DEVICE_MODULES += android.hardware.boot@1.0
 TW_RECOVERY_ADDITIONAL_RELINK_FILES := ${OUT_DIR}/target/product/enchilada/system/lib64/android.hardware.boot@1.0.so
 TARGET_RECOVERY_PIXEL_FORMAT := BGRA_8888
@@ -31,7 +31,8 @@ TW_HAS_EDL_MODE := true
 
 # Encryption
 #PLATFORM_SECURITY_PATCH := 2025-12-31
-TW_INCLUDE_CRYPTO := false
+TW_INCLUDE_CRYPTO := true
+TW_INCLUDE_CRYPTO_FBE := true
 
 # Extras
 BOARD_SUPPRESS_SECURE_ERASE := true
