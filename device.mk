@@ -31,6 +31,10 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     NoCutoutOverlay
 
+# Device fstab
+PRODUCT_PACKAGES += \
+    fstab.qcom
+
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
