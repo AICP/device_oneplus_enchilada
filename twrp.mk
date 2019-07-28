@@ -3,6 +3,7 @@ ifeq ($(BUILD_TWRP),true)
 BOARD_HAS_LARGE_FILESYSTEM := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 TARGET_RECOVERY_DEVICE_DIRS += $(DEVICE_PATH)/twrp
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/twrp/recovery/root/etc/twrp.fstab
 
 # TWRP specific build flags
 BOARD_HAS_NO_REAL_SDCARD := true

@@ -23,7 +23,12 @@ DEVICE_PATH := device/oneplus/enchilada
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
 # Recovery
+ifeq ($(BUILD_TWRP),true)
+include $(DEVICE_PATH)/twrp.mk
+else
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery.fstab
+endif
+BOARD_RECOVERYIMAGE_PARTITION_SIZE := 67108864
 
 # inherit from the proprietary version
 -include vendor/oneplus/enchilada/BoardConfigVendor.mk
