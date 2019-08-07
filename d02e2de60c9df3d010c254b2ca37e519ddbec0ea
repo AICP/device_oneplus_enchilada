@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "02d3e0a0_6e54af81",
+        "filename": "patches.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2019-08-07T08:18:45Z",
+      "side": 1,
+      "message": "you should probably use patchset 2 https://review.lineageos.org/c/LineageOS/android_vendor_qcom_opensource_audio/+/252619/1..2",
+      "range": {
+        "startLine": 5,
+        "startChar": 7,
+        "endLine": 5,
+        "endChar": 8
+      },
+      "revId": "d02e2de60c9df3d010c254b2ca37e519ddbec0ea",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
