@@ -3,5 +3,10 @@
     "repository":  "AICP/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
     "branch":      "q10.0"
+  },
+  {
+    "repository":  "AICP/device_twrp",
+    "target_path": "device/twrp/enchilada",
+    "branch":      "enchilada"
   }
 ]
