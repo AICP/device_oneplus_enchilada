@@ -2,4 +2,5 @@
 # so we pull the patches from gerrit.
 #
 #e.g. 67313/1 http://gerrit.aicp-rom.com prebuilts/clang/host/linux-x86
-1229861/1 https://android-review.googlesource.com prebuilts/clang/host/linux-x86
+# clang 10.0.4
+1235378/1 https://android-review.googlesource.com prebuilts/clang/host/linux-x86
