@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f9ef7d6c_5519dfb5",
+        "filename": "patches.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2020-02-28T21:07:32Z",
+      "side": 1,
+      "message": "rom ?",
+      "range": {
+        "startLine": 6,
+        "startChar": 28,
+        "endLine": 6,
+        "endChar": 29
+      },
+      "revId": "4707adb0a7f4c3e5a4eb395835ab0bbcf8599a8b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
