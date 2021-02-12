@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b844de8_333f5b95",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2021-02-12T06:57:28Z",
+      "side": 1,
+      "message": "you can just remove the branch line, it\u0027s not needed for aicp repos with the r11.1 branch",
+      "revId": "3af139f932c67959902b49165b2f4c3a31b8cd72",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
