@@ -16,6 +16,23 @@
       "message": "I pushed all needed for officials, we only need to pick the haxx commit for now. What are the plans with recovery? I use AICP-recovery, whcih fits perfect for my needs - but whats the way for officials? @Tom: what you are using on 0p6t? Maybe go same way on op6-fam.",
       "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "43584963_b1aacb15",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1393
+      },
+      "writtenOn": "2021-02-21T13:26:14Z",
+      "side": 1,
+      "message": "I am ok with either recovery, but I suggest we ensure that the gapps retention for dirty flashes works on aosp recovery before merge - it does with TWRP for enchilada paired with NikGapps.",
+      "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
