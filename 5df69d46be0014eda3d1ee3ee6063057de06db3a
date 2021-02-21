@@ -33,6 +33,24 @@
       "message": "I am ok with either recovery, but I suggest we ensure that the gapps retention for dirty flashes works on aosp recovery before merge - it does with TWRP for enchilada paired with NikGapps.",
       "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "230f73dd_a97b01d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1393
+      },
+      "writtenOn": "2021-02-21T13:30:30Z",
+      "side": 1,
+      "message": "nope forget that last bit, typing before enough coffee again. I am good with either recovery - officials would use updater app to trigger install anyway.",
+      "parentUuid": "43584963_b1aacb15",
+      "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
