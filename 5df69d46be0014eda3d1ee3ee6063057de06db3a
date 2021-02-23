@@ -51,6 +51,23 @@
       "parentUuid": "43584963_b1aacb15",
       "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1228efda_a3f69cdb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-02-23T14:32:00Z",
+      "side": 1,
+      "message": "can be abandoned. LOS recovery is triggert by:\nhttps://github.com/AICP/device_oneplus_sdm845-common/blob/r11.0/BoardConfigCommon.mk#L112",
+      "revId": "5df69d46be0014eda3d1ee3ee6063057de06db3a",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
