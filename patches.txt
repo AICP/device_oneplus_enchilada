@@ -1,3 +1,0 @@
-# f_av
-305302/4 https://review.lineageos.org frameworks/av
-
