@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e1d412d_2c480401",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-05-08T05:18:39Z",
+      "side": 1,
+      "message": "I would do it this way ... what you guys want/think?",
+      "revId": "1a29330fb2f8e54b16df1d7484f536fa9e1ab834",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
