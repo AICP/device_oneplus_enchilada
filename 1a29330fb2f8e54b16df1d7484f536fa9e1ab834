@@ -50,6 +50,24 @@
       "message": "you can update it from the official one?",
       "revId": "1a29330fb2f8e54b16df1d7484f536fa9e1ab834",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aabdb2c2_9f007bfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1393
+      },
+      "writtenOn": "2021-05-09T12:48:05Z",
+      "side": 1,
+      "message": "we could, but I am thinking we should not. the included recovery will handle updates from updater application, retaining gapps and/or magisk. those who require advanced functionality and installation of add-ons can install TWRP - we really don\u0027t recommend add-ons anyway. with enchilada, initial installs can be completed with fastboot boot boot.img avoiding any separate recovery install even on a clean flash.",
+      "parentUuid": "196789a2_5c56d3f7",
+      "revId": "1a29330fb2f8e54b16df1d7484f536fa9e1ab834",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
