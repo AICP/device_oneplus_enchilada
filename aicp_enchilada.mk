@@ -37,11 +37,11 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=OnePlus6 \
     PRIVATE_BUILD_DESC="OnePlus6-user 8.1.0 OPM1.171019.011 273 release-keys"
 
-BUILD_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
+BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DEVICE_MAINTAINERS="Spencer Dowden (phpbb3), Carlos Solano (csolanol), Julian Veit (Claymore1297)"
 
 PRODUCT_OVERRIDE_INFO := true
-PRODUCT_OVERRIDE_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
+PRODUCT_OVERRIDE_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
