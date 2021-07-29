@@ -1,0 +1,4 @@
+# fix touch depress
+110604/1 https://gerrit.aicp-rom.com frameworks/base
+110605/1 https://gerrit.aicp-rom.com frameworks/base
+110606/1 https://gerrit.aicp-rom.com frameworks/native
