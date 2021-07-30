@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30c89624_f99f766d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-07-30T06:20:15Z",
+      "side": 1,
+      "message": "No need for this. Merged ROM side changes. ",
+      "revId": "a96beeec486d2a72457891ac893bb3cebfc612e6",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
